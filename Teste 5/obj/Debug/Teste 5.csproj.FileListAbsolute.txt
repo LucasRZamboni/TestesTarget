@@ -1,0 +1,11 @@
+C:\Users\lucas\Desktop\Testes Target\Teste 5\bin\Debug\Teste 5.exe.config
+C:\Users\lucas\Desktop\Testes Target\Teste 5\bin\Debug\Teste 5.exe
+C:\Users\lucas\Desktop\Testes Target\Teste 5\bin\Debug\Teste 5.pdb
+C:\Users\lucas\Desktop\Testes Target\Teste 5\obj\Debug\Teste 5.csproj.AssemblyReference.cache
+C:\Users\lucas\Desktop\Testes Target\Teste 5\obj\Debug\Teste 5.csproj.SuggestedBindingRedirects.cache
+C:\Users\lucas\Desktop\Testes Target\Teste 5\obj\Debug\Teste_5.Form1.resources
+C:\Users\lucas\Desktop\Testes Target\Teste 5\obj\Debug\Teste_5.Properties.Resources.resources
+C:\Users\lucas\Desktop\Testes Target\Teste 5\obj\Debug\Teste 5.csproj.GenerateResource.cache
+C:\Users\lucas\Desktop\Testes Target\Teste 5\obj\Debug\Teste 5.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Desktop\Testes Target\Teste 5\obj\Debug\Teste 5.exe
+C:\Users\lucas\Desktop\Testes Target\Teste 5\obj\Debug\Teste 5.pdb
